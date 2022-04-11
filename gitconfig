@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = j.strahl@gmx.de
+	name = Julia Strahl
